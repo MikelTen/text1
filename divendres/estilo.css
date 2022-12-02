@@ -29,3 +29,13 @@ h2.blau{
 
     color: green;
 }
+
+p.especial{
+    
+    color:red
+}
+
+p.especial2{
+
+    font-style: oblique;
+}
