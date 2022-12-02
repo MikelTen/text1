@@ -16,3 +16,9 @@ p.especial2{
 
     font-style: blue;
 }
+
+p#uno{
+
+    color: aqua;
+    font-weight: bold;
+}
